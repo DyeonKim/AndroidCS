@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidCS"
 include(":app")
+include(":javaapp")
